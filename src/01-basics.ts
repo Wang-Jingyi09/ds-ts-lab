@@ -2,10 +2,10 @@ import { Friend, Colleague, ColleagueHistory } from './myTypes'
 
 // (Optional) Change the names below to your friends.
 
-interface Contact {
-    email: string;
-    extension: number
-}
+// interface Contact {
+//     email: string;
+//     extension: number
+// }
 
 const friend1: Friend = {
     name: "Paul Fleming",
